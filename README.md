@@ -1,8 +1,12 @@
-# 🎉 College Event Management System
+#  College Event Management System
 
 A responsive web application built using **HTML5, CSS3, and Bootstrap 5** to manage and showcase college events.
 
-## 📌 Project Description
+##  Live Demo
+
+🔗 https://sryureddy.github.io/College-Event-Management-System/
+
+##  Project Description
 
 The College Event Management System provides an easy platform for students to:
 
@@ -17,37 +21,37 @@ The website is fully responsive and user-friendly.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🏠 Home Page
+###  Home Page
 - Responsive Navbar
 - Bootstrap Carousel
 - Event Highlights
 - Registration Button
 
-### 🎉 Events Page
+###  Events Page
 - Event Cards
 - Event Information
 - Register Buttons
 
-### 📝 Registration Page
+###  Registration Page
 - Student Registration Form
 - Bootstrap Alert
 - Bootstrap Modal
 
-### 📅 Schedule Page
+###  Schedule Page
 - Event Timetable
 - Bootstrap Tables
 - Hover Effects
 
-### 🖼️ Gallery Page
+###  Gallery Page
 - Responsive Image Gallery
 - Bootstrap Cards
 
-### ❓ FAQ Page
+###  FAQ Page
 - Bootstrap Accordion
 
-### 📞 Contact Page
+###  Contact Page
 - Contact Form
 - Coordinator Details
 - Social Media Links
@@ -63,7 +67,7 @@ The website is fully responsive and user-friendly.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 College-Event-Management/
@@ -90,7 +94,7 @@ College-Event-Management/
 
 ---
 
-## 🎯 Bootstrap Components Used
+##  Bootstrap Components Used
 
 - Navbar
 - Carousel
@@ -105,7 +109,7 @@ College-Event-Management/
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The website works on:
 
@@ -116,13 +120,13 @@ The website works on:
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
 Add screenshots of your project here.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Sarayu Reddy**
 
@@ -133,6 +137,6 @@ GitHub: https://github.com/sryureddy
 
 ---
 
-## 📄 License
+##  License
 
 This project is developed for educational and learning purposes.
